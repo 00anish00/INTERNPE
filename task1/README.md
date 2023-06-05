@@ -1,5 +1,3 @@
-Certainly! Here's a sample description or README file for the Tic Tac Toe game:
-
 # Tic Tac Toe
 
 Tic Tac Toe is a classic two-player game played on a 3x3 grid. The players take turns marking spaces on the grid, aiming to get three of their marks in a horizontal, vertical, or diagonal row.

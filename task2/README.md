@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your code:
-
 # DG-CAL
 
 DG-CAL is a simple desktop application built using the tkinter library in Python. It displays the current time and date in a digital format.
