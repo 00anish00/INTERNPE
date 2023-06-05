@@ -30,16 +30,9 @@ The computer AI makes its moves randomly, selecting an available position on the
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to modify, distribute, and use this project for educational or personal purposes.
 
 ## Acknowledgments
 
-This implementation of Tic Tac Toe was created by [Your Name]. It was developed as a fun exercise to practice programming skills and showcase the game logic.
-
-## Troubleshooting
-
-If you encounter any issues or have any questions, please create an issue on the GitHub repository or contact [Your Email].
-
-That's it! You can customize the README file further to suit your preferences and add any additional sections or information as needed.
+This implementation of Tic Tac Toe was created by Anshuman Rath. It was developed as a fun exercise to practice programming skills and showcase the game logic.

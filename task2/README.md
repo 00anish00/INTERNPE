@@ -34,12 +34,4 @@ python dg_cal.py
 
 If you'd like to contribute to DG-CAL, you can fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-If you have any questions or suggestions regarding DG-CAL, feel free to contact the project maintainer at example@example.com.
-
 Enjoy using DG-CAL!
